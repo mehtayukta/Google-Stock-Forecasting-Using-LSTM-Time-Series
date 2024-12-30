@@ -1,6 +1,5 @@
 
-**LSTM for Time Series Forecasting Predicting Google Stock Price
-**
+**LSTM for Time Series Forecasting Predicting Google Stock Price**
 
 This notebook uses LSTM (Long Short-Term Memory) neural networks for time series forecasting to analyze and predict the trends in Google stock prices.
 
